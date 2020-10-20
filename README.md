@@ -9,6 +9,7 @@ Para executar o projeto é necessário ter:
 - Node: Necessário para executar o projeto
 - Yarn ou Npm: Necessário para instalar as dependências do projeto
 - Fazer o clone api do repositório https://github.com/henrique-nitatori/ChatPomboApi
+- Fazer o clone web do repositório https://github.com/henrique-nitatori/PomboChatWeb
 
 ## Se interessou, pode dar continuidade você mesmo, vai precisar seguir esses passos: 
 
